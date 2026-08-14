@@ -36,7 +36,7 @@
         <version.org.json>20180130</version.org.json>
         <version.unirest>1.4.9</version.unirest>
         <version.xray.sdk-core>1.2.1</version.xray.sdk-core>
-        <version.jackson.core>2.9.4</version.jackson.core>
+        <version.jackson.core>2.18.8</version.jackson.core>
         <version.javax.inject>1</version.javax.inject>
     </properties>
     <dependencyManagement>
